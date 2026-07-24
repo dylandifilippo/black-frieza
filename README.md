@@ -4,13 +4,11 @@ A balanced dark theme for **Zed** and **VS Code** — neither too light nor too 
 
 Born from [New Darcula](https://github.com/e-simpson/new-darcula-z) with one goal: keep its balance, but make the colors *pop*. Saturated syntax highlighting, a terminal that matches the sidebar instead of pitch black, and matte accents — khaki for new files, a single violet for everything interactive.
 
-<!-- screenshots: add assets/zed-black-frieza.png and assets/vscode-black-frieza.png, then uncomment
 ![Black Frieza in Zed](assets/zed-black-frieza.png)
-*Black Frieza (Zed)*
+*Black Frieza Darker — Zed*
 
 ![Black Frieza in VS Code](assets/vscode-black-frieza.png)
-*Black Frieza (VS Code)*
--->
+*Black Frieza Darker — VS Code*
 
 ## Variants
 
