@@ -1,0 +1,38 @@
+{
+  "name": "black-frieza-theme",
+  "displayName": "Black Frieza",
+  "description": "Balanced dark theme with saturated syntax and khaki-and-violet accents. Ported from the Zed theme.",
+  "version": "1.0.0",
+  "publisher": "dylan-di-filippo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylandifilippo/black-frieza"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "darcula",
+    "black frieza"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Frieza",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-frieza-color-theme.json"
+      },
+      {
+        "label": "Black Frieza Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-frieza-darker-color-theme.json"
+      }
+    ]
+  }
+}

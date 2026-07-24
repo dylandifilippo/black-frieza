@@ -1,0 +1,7 @@
+id = "black-frieza"
+name = "Black Frieza"
+version = "1.0.0"
+schema_version = 1
+authors = ["Dylan Di Filippo <dylan.di.filippo@gmail.com>"]
+description = "Balanced dark theme with saturated syntax colors and khaki-and-violet accents. Based on New Darcula."
+repository = "https://github.com/dylandifilippo/black-frieza"
