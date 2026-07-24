@@ -4,6 +4,7 @@
   "description": "Balanced dark theme with saturated syntax and khaki-and-violet accents. Ported from the Zed theme.",
   "version": "1.0.0",
   "publisher": "dylan-di-filippo",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
