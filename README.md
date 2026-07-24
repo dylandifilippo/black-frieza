@@ -8,7 +8,7 @@ Born from [New Darcula](https://github.com/e-simpson/new-darcula-z) with one goa
 *Black Frieza Darker — Zed*
 
 ![Black Frieza in VS Code](assets/vscode-black-frieza.png)
-*Black Frieza Darker — VS Code*
+*Black Frieza — VS Code*
 
 ## Variants
 
