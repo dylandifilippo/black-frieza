@@ -47,13 +47,15 @@ Until the extension lands in the Zed registry:
 
 Once published: `cmd-shift-p` → `zed: extensions` → search **Black Frieza** → Install.
 
-## Install — VS Code / Cursor
+## Install — VS Code
 
-1. Grab the `.vsix` from the [latest release](https://github.com/dylandifilippo/black-frieza/releases)
-2. In VS Code: `cmd-shift-p` → **Extensions: Install from VSIX…**
-3. `cmd-k cmd-t` → pick **Black Frieza** or **Black Frieza Darker**
+Search **Black Frieza** in the Extensions view (`cmd-shift-x`), or install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dylan-di-filippo.black-frieza-theme). Then `cmd-k cmd-t` → pick **Black Frieza** or **Black Frieza Darker**.
 
-Works in Cursor the same way.
+## Install — Cursor / Windsurf / VSCodium
+
+Search **Black Frieza** in your editor's extension view — served by [Open VSX](https://open-vsx.org/extension/dylan-di-filippo/black-frieza-theme).
+
+**Fallback for any VS Code fork**: grab the `.vsix` from the [latest release](https://github.com/dylandifilippo/black-frieza/releases), then `cmd-shift-p` → **Extensions: Install from VSIX…**
 
 ## Credits
 
