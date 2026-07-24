@@ -6,7 +6,7 @@
 
 <p align="center">A balanced dark theme for <b>Zed</b> and <b>VS Code</b> — neither too light nor too dark, built to work day and night.</p>
 
-Born from [New Darcula](https://github.com/e-simpson/new-darcula-z) with one goal: keep its balance, but make the colors *pop*. Saturated syntax highlighting, a terminal that matches the sidebar instead of pitch black, and matte accents — khaki for new files, a single violet for everything interactive.
+Saturated syntax highlighting, a terminal that matches the sidebar instead of pitch black, and matte accents — khaki for new files, a single violet for everything interactive.
 
 ![Black Frieza in Zed](assets/zed-black-frieza.png)
 *Black Frieza Darker — Zed*

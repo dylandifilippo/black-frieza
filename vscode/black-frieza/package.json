@@ -1,8 +1,8 @@
 {
   "name": "black-frieza-theme",
   "displayName": "Black Frieza",
-  "description": "Balanced dark theme with saturated syntax and khaki-and-violet accents. Ported from the Zed theme.",
-  "version": "1.0.2",
+  "description": "A balanced dark theme — neither too light nor too dark. Saturated syntax colors with matte khaki-and-violet accents.",
+  "version": "1.0.3",
   "publisher": "dylan-di-filippo",
   "icon": "icon.png",
   "license": "MIT",

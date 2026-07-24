@@ -3,5 +3,5 @@ name = "Black Frieza"
 version = "1.0.0"
 schema_version = 1
 authors = ["Dylan Di Filippo <dylan.di.filippo@gmail.com>"]
-description = "Balanced dark theme with saturated syntax colors and khaki-and-violet accents. Based on New Darcula."
+description = "A balanced dark theme — neither too light nor too dark. Saturated syntax colors with matte khaki-and-violet accents."
 repository = "https://github.com/dylandifilippo/black-frieza"
