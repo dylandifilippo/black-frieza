@@ -1,6 +1,6 @@
 id = "black-frieza"
 name = "Black Frieza"
-version = "1.0.0"
+version = "1.0.6"
 schema_version = 1
 authors = ["Dylan Di Filippo <dylan.di.filippo@gmail.com>"]
 description = "A balanced dark theme — neither too light nor too dark. Saturated syntax colors with matte khaki-and-violet accents."
