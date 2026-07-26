@@ -323,6 +323,11 @@
       "settings": { "foreground": "#d291e0" }
     },
     {
+      "name": "Unquoted .env values (the dotenv grammar leaves them unscoped)",
+      "scope": ["source.env"],
+      "settings": { "foreground": "#8fd177" }
+    },
+    {
       "name": "Decorators",
       "scope": ["meta.decorator", "punctuation.decorator", "entity.name.function.decorator"],
       "settings": { "foreground": "#6fc3d4" }
