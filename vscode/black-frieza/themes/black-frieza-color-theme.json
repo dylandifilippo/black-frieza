@@ -182,8 +182,9 @@
     "enum": "#4ecfb8",
     "enumMember": "#a88aff",
     "property": "#d291e0",
+    "property.declaration": "#c9a3d8",
     "parameter": {
-      "foreground": "#f0a967",
+      "foreground": "#8fc7ff",
       "italic": true
     },
     "variable": "#e8e8e8",
@@ -291,7 +292,7 @@
     {
       "name": "Parameters",
       "scope": ["variable.parameter"],
-      "settings": { "foreground": "#f0a967", "fontStyle": "italic" }
+      "settings": { "foreground": "#8fc7ff", "fontStyle": "italic" }
     },
     {
       "name": "HTML/JSX tags",

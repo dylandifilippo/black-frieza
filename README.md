@@ -31,7 +31,7 @@ Both share the same syntax palette:
 | Properties | `#d291e0` | orchid |
 | Strings | `#8fd177` | green |
 | Constants & enum members | `#a88aff` | violet |
-| Parameters | `#f0a967` *italic* | amber |
+| Parameters | `#8fc7ff` *italic* | sky blue |
 | New / untracked files | `#a9b665` | muted khaki |
 | Accent (links, badges) | `#a37acc` | matte violet |
 
