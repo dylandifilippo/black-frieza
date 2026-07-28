@@ -41,7 +41,7 @@ Design principles: the terminal background always matches the panels (no black h
 
 Until the extension lands in the Zed registry:
 
-1. Download [`themes/black-frieza.json`](themes/black-frieza.json)
+1. Download [`zed/black-frieza/themes/black-frieza.json`](zed/black-frieza/themes/black-frieza.json)
 2. Drop it in `~/.config/zed/themes/`
 3. `cmd-k cmd-t` → pick **Black Frieza** or **Black Frieza Darker**
 
